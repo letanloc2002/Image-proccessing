@@ -1,0 +1,9 @@
+D:\C#\Mini_prj13\Mini_prj13\bin\Debug\Mini_prj13.exe
+D:\C#\Mini_prj13\Mini_prj13\bin\Debug\Mini_prj13.pdb
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.csproj.AssemblyReference.cache
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.Form1.resources
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.Properties.Resources.resources
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.csproj.GenerateResource.cache
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.csproj.CoreCompileInputs.cache
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.exe
+D:\C#\Mini_prj13\Mini_prj13\obj\Debug\Mini_prj13.pdb

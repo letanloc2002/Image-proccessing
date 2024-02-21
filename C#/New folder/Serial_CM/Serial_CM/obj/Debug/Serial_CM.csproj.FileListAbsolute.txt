@@ -1,0 +1,41 @@
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe.config
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.pdb
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csprojAssemblyReference.cache
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Form1.resources
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Properties.Resources.resources
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.GenerateResource.cache
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.CoreCompileInputs.cache
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.exe
+C:\Users\HOANG DOAN\OneDrive\Desktop\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.pdb
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe.config
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\bin\Debug\Serial_CM.pdb
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.AssemblyReference.cache
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Form1.resources
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Properties.Resources.resources
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.GenerateResource.cache
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.CoreCompileInputs.cache
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.exe
+D:\IOT - C#-20230228T164800Z-001\IOT - C#\Serial_CM\Serial_CM\obj\Debug\Serial_CM.pdb
+D:\IOT\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe.config
+D:\IOT\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe
+D:\IOT\Serial_CM\Serial_CM\bin\Debug\Serial_CM.pdb
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.AssemblyReference.cache
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Form1.resources
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Properties.Resources.resources
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.GenerateResource.cache
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.CoreCompileInputs.cache
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.exe
+D:\IOT\Serial_CM\Serial_CM\obj\Debug\Serial_CM.pdb
+D:\C#\New folder\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe.config
+D:\C#\New folder\Serial_CM\Serial_CM\bin\Debug\Serial_CM.exe
+D:\C#\New folder\Serial_CM\Serial_CM\bin\Debug\Serial_CM.pdb
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.AssemblyReference.cache
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.SuggestedBindingRedirects.cache
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Form1.resources
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.Properties.Resources.resources
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.GenerateResource.cache
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.csproj.CoreCompileInputs.cache
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.exe
+D:\C#\New folder\Serial_CM\Serial_CM\obj\Debug\Serial_CM.pdb

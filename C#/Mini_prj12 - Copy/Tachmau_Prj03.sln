@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tachmau_Prj03", "Tachmau_Prj03\Tachmau_Prj03.csproj", "{DE4E8412-5D36-435C-B496-6DBFB1FEE6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE4E8412-5D36-435C-B496-6DBFB1FEE6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4E8412-5D36-435C-B496-6DBFB1FEE6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4E8412-5D36-435C-B496-6DBFB1FEE6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4E8412-5D36-435C-B496-6DBFB1FEE6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B04F182-45B7-408B-B99D-456CB36E7975}
+	EndGlobalSection
+EndGlobal

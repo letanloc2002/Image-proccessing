@@ -1,0 +1,25 @@
+--cpu Cortex-M3
+"cubeuart\startup_stm32f205xx.o"
+"cubeuart\main.o"
+"cubeuart\stm32f2xx_it.o"
+"cubeuart\stm32f2xx_hal_msp.o"
+"cubeuart\stm32f2xx_hal_tim.o"
+"cubeuart\stm32f2xx_hal_tim_ex.o"
+"cubeuart\stm32f2xx_hal_uart.o"
+"cubeuart\stm32f2xx_hal.o"
+"cubeuart\stm32f2xx_hal_rcc.o"
+"cubeuart\stm32f2xx_hal_rcc_ex.o"
+"cubeuart\stm32f2xx_hal_cortex.o"
+"cubeuart\stm32f2xx_hal_flash.o"
+"cubeuart\stm32f2xx_hal_flash_ex.o"
+"cubeuart\stm32f2xx_hal_pwr.o"
+"cubeuart\stm32f2xx_hal_pwr_ex.o"
+"cubeuart\stm32f2xx_hal_gpio.o"
+"cubeuart\stm32f2xx_hal_dma.o"
+"cubeuart\stm32f2xx_hal_dma_ex.o"
+"cubeuart\stm32f2xx_hal_exti.o"
+"cubeuart\system_stm32f2xx.o"
+--library_type=microlib --strict --scatter "cubeuart\cubeuart.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "cubeuart.map" -o cubeuart\cubeuart.axf

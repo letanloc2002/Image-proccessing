@@ -1,0 +1,5 @@
+D:\C#\serial port\serial port\obj\Debug\serial port.csproj.AssemblyReference.cache
+D:\C#\serial port\serial port\obj\Debug\Serial.Form1.resources
+D:\C#\serial port\serial port\obj\Debug\serial_port.Properties.Resources.resources
+D:\C#\serial port\serial port\obj\Debug\serial port.csproj.GenerateResource.cache
+D:\C#\serial port\serial port\obj\Debug\serial port.csproj.CoreCompileInputs.cache

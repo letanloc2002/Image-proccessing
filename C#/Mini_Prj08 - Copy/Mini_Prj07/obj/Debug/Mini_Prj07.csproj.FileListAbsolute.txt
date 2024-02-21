@@ -1,0 +1,18 @@
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.AssemblyReference.cache
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.prj07.resources
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.Properties.Resources.resources
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.GenerateResource.cache
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.CoreCompileInputs.cache
+D:\C#\Mini_Prj07\Mini_Prj07\bin\Debug\Mini_Prj07.exe
+D:\C#\Mini_Prj07\Mini_Prj07\bin\Debug\Mini_Prj07.pdb
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.exe
+D:\C#\Mini_Prj07\Mini_Prj07\obj\Debug\Mini_Prj07.pdb
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\bin\Debug\Mini_Prj07.exe
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\bin\Debug\Mini_Prj07.pdb
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.AssemblyReference.cache
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.prj07.resources
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.Properties.Resources.resources
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.GenerateResource.cache
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.csproj.CoreCompileInputs.cache
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.exe
+D:\C#\Mini_Prj08 - Copy\Mini_Prj07\obj\Debug\Mini_Prj07.pdb
